@@ -1,0 +1,28 @@
+{
+  "name": "less-husl",
+  "version": "1.0.0",
+  "description": "Less.js plugin that add HUSL color space support",
+  "main": "lib/husl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k0dek0mmand0/less-husl.git"
+  },
+  "keywords": [
+    "less",
+    "husl",
+    "color"
+  ],
+  "author": "k0dek0mmand0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k0dek0mmand0/less-husl/issues"
+  },
+  "homepage": "https://github.com/k0dek0mmand0/less-husl",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "husl": "^6.0.0"
+  }
+}

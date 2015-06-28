@@ -1,7 +1,7 @@
 {
   "name": "less-husl",
   "version": "1.0.0",
-  "description": "Less.js plugin that add HUSL color space support",
+  "description": "Less.js plugin that adds HUSL color space support",
   "main": "lib/husl.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

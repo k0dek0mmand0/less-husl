@@ -37,6 +37,12 @@ lessc --plugin=[path-to-cloned-repo]\lib\husl.js <stylesheet.less>
 var less = require( 'gulp-less' );
 var husl = require( 'less-husl' );
 //
+var lessOpts =
+{
+	paths   : ['./src/less'],
+	plugins : [husl] 
+};
+
 gulp.task( 'css', function()
 {
 	gulp

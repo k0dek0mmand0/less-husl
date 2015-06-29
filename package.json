@@ -1,6 +1,6 @@
 {
   "name": "less-husl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Less.js plugin that adds HUSL color space support",
   "main": "lib/husl.js",
   "scripts": {
